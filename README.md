@@ -91,6 +91,6 @@ Right aligned columns
 [link text](https://www.polymtl.ca/expertises/en/melancon-david "Expertise")
 
 ## Images
-![SecretSante24](https://polystable.github.io/images/2024_secret_santa.jpg)
+![SecretSante24](https://polystable.github.io/images/2023_secret_santa.jpg)
 
 ## The End!
