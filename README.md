@@ -37,5 +37,57 @@ Unordered
     * Ac
     + something
     - nul
-+ Very easy ! 
++ Very easy !
 
+Ordered
+
+1. A
+2. B
+3. C
+
+
+## Code
+
+Inline `code`
+
+Indented code
+
+    // Some comments
+    line 1 of code
+    line 2 of code
+
+Block code "fences"
+
+```
+Sample text here ...
+```
+
+Syntax highlighting
+
+```js
+var foo = function (bar) {
+  return bar++'
+};
+
+console.log(foo(5));
+```
+
+## Tables
+
+| Option | Description |
+| -------| ------------|
+| data   | path to data files |
+| engine | eveve |
+
+Right aligned columns
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files |
+| engine | eveve |
+
+## Links
+
+[link text](https://www.polymtl.ca/expertises/en/melancon-david "Expertise")
+
+## The End!
